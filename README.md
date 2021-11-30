@@ -1,2 +1,2 @@
-# Titanic-Passenger_Survival_Pedictionn
+# Titanic-Passenger_Survival_Prediction
 My_First_Ml_Project...
