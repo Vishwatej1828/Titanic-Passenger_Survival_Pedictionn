@@ -1,0 +1,419 @@
+,Survival_Numerical_Representation,Survived_Categorical_Repr
+0,0,Not Survived
+1,1,Survived
+2,0,Not Survived
+3,0,Not Survived
+4,1,Survived
+5,0,Not Survived
+6,1,Survived
+7,0,Not Survived
+8,1,Survived
+9,0,Not Survived
+10,0,Not Survived
+11,0,Not Survived
+12,1,Survived
+13,0,Not Survived
+14,1,Survived
+15,1,Survived
+16,0,Not Survived
+17,0,Not Survived
+18,1,Survived
+19,1,Survived
+20,0,Not Survived
+21,0,Not Survived
+22,1,Survived
+23,0,Not Survived
+24,1,Survived
+25,0,Not Survived
+26,1,Survived
+27,0,Not Survived
+28,0,Not Survived
+29,0,Not Survived
+30,0,Not Survived
+31,0,Not Survived
+32,1,Survived
+33,1,Survived
+34,0,Not Survived
+35,0,Not Survived
+36,1,Survived
+37,1,Survived
+38,0,Not Survived
+39,0,Not Survived
+40,0,Not Survived
+41,0,Not Survived
+42,0,Not Survived
+43,1,Survived
+44,1,Survived
+45,0,Not Survived
+46,0,Not Survived
+47,0,Not Survived
+48,1,Survived
+49,1,Survived
+50,0,Not Survived
+51,0,Not Survived
+52,1,Survived
+53,1,Survived
+54,0,Not Survived
+55,0,Not Survived
+56,0,Not Survived
+57,0,Not Survived
+58,0,Not Survived
+59,1,Survived
+60,0,Not Survived
+61,0,Not Survived
+62,0,Not Survived
+63,1,Survived
+64,0,Not Survived
+65,1,Survived
+66,1,Survived
+67,0,Not Survived
+68,0,Not Survived
+69,1,Survived
+70,1,Survived
+71,0,Not Survived
+72,1,Survived
+73,0,Not Survived
+74,1,Survived
+75,0,Not Survived
+76,0,Not Survived
+77,1,Survived
+78,0,Not Survived
+79,1,Survived
+80,0,Not Survived
+81,0,Not Survived
+82,0,Not Survived
+83,0,Not Survived
+84,0,Not Survived
+85,0,Not Survived
+86,1,Survived
+87,1,Survived
+88,1,Survived
+89,0,Not Survived
+90,1,Survived
+91,0,Not Survived
+92,1,Survived
+93,0,Not Survived
+94,0,Not Survived
+95,0,Not Survived
+96,1,Survived
+97,0,Not Survived
+98,1,Survived
+99,0,Not Survived
+100,1,Survived
+101,0,Not Survived
+102,0,Not Survived
+103,0,Not Survived
+104,1,Survived
+105,0,Not Survived
+106,0,Not Survived
+107,0,Not Survived
+108,0,Not Survived
+109,0,Not Survived
+110,0,Not Survived
+111,1,Survived
+112,1,Survived
+113,1,Survived
+114,1,Survived
+115,0,Not Survived
+116,0,Not Survived
+117,1,Survived
+118,0,Not Survived
+119,1,Survived
+120,1,Survived
+121,0,Not Survived
+122,1,Survived
+123,0,Not Survived
+124,0,Not Survived
+125,1,Survived
+126,0,Not Survived
+127,1,Survived
+128,0,Not Survived
+129,0,Not Survived
+130,0,Not Survived
+131,0,Not Survived
+132,0,Not Survived
+133,0,Not Survived
+134,0,Not Survived
+135,0,Not Survived
+136,0,Not Survived
+137,0,Not Survived
+138,1,Survived
+139,0,Not Survived
+140,0,Not Survived
+141,1,Survived
+142,0,Not Survived
+143,0,Not Survived
+144,0,Not Survived
+145,0,Not Survived
+146,0,Not Survived
+147,0,Not Survived
+148,0,Not Survived
+149,0,Not Survived
+150,1,Survived
+151,0,Not Survived
+152,0,Not Survived
+153,1,Survived
+154,0,Not Survived
+155,0,Not Survived
+156,1,Survived
+157,1,Survived
+158,0,Not Survived
+159,1,Survived
+160,1,Survived
+161,0,Not Survived
+162,1,Survived
+163,0,Not Survived
+164,0,Not Survived
+165,1,Survived
+166,0,Not Survived
+167,0,Not Survived
+168,1,Survived
+169,1,Survived
+170,0,Not Survived
+171,0,Not Survived
+172,0,Not Survived
+173,0,Not Survived
+174,0,Not Survived
+175,1,Survived
+176,1,Survived
+177,0,Not Survived
+178,1,Survived
+179,1,Survived
+180,0,Not Survived
+181,0,Not Survived
+182,1,Survived
+183,0,Not Survived
+184,1,Survived
+185,0,Not Survived
+186,1,Survived
+187,0,Not Survived
+188,0,Not Survived
+189,0,Not Survived
+190,0,Not Survived
+191,0,Not Survived
+192,0,Not Survived
+193,0,Not Survived
+194,0,Not Survived
+195,0,Not Survived
+196,0,Not Survived
+197,1,Survived
+198,0,Not Survived
+199,1,Survived
+200,1,Survived
+201,0,Not Survived
+202,0,Not Survived
+203,1,Survived
+204,0,Not Survived
+205,0,Not Survived
+206,1,Survived
+207,0,Not Survived
+208,1,Survived
+209,0,Not Survived
+210,0,Not Survived
+211,0,Not Survived
+212,0,Not Survived
+213,1,Survived
+214,0,Not Survived
+215,0,Not Survived
+216,1,Survived
+217,0,Not Survived
+218,1,Survived
+219,0,Not Survived
+220,1,Survived
+221,0,Not Survived
+222,1,Survived
+223,0,Not Survived
+224,1,Survived
+225,1,Survived
+226,0,Not Survived
+227,1,Survived
+228,0,Not Survived
+229,0,Not Survived
+230,0,Not Survived
+231,1,Survived
+232,0,Not Survived
+233,0,Not Survived
+234,0,Not Survived
+235,0,Not Survived
+236,0,Not Survived
+237,0,Not Survived
+238,1,Survived
+239,1,Survived
+240,1,Survived
+241,1,Survived
+242,0,Not Survived
+243,0,Not Survived
+244,0,Not Survived
+245,0,Not Survived
+246,1,Survived
+247,0,Not Survived
+248,1,Survived
+249,1,Survived
+250,1,Survived
+251,0,Not Survived
+252,0,Not Survived
+253,0,Not Survived
+254,0,Not Survived
+255,0,Not Survived
+256,0,Not Survived
+257,0,Not Survived
+258,1,Survived
+259,0,Not Survived
+260,0,Not Survived
+261,0,Not Survived
+262,1,Survived
+263,1,Survived
+264,0,Not Survived
+265,0,Not Survived
+266,0,Not Survived
+267,0,Not Survived
+268,1,Survived
+269,0,Not Survived
+270,0,Not Survived
+271,0,Not Survived
+272,1,Survived
+273,1,Survived
+274,0,Not Survived
+275,1,Survived
+276,0,Not Survived
+277,0,Not Survived
+278,0,Not Survived
+279,0,Not Survived
+280,1,Survived
+281,0,Not Survived
+282,1,Survived
+283,1,Survived
+284,1,Survived
+285,0,Not Survived
+286,0,Not Survived
+287,0,Not Survived
+288,0,Not Survived
+289,0,Not Survived
+290,0,Not Survived
+291,1,Survived
+292,0,Not Survived
+293,0,Not Survived
+294,0,Not Survived
+295,0,Not Survived
+296,1,Survived
+297,0,Not Survived
+298,0,Not Survived
+299,0,Not Survived
+300,0,Not Survived
+301,0,Not Survived
+302,0,Not Survived
+303,0,Not Survived
+304,1,Survived
+305,1,Survived
+306,0,Not Survived
+307,0,Not Survived
+308,0,Not Survived
+309,1,Survived
+310,0,Not Survived
+311,0,Not Survived
+312,0,Not Survived
+313,1,Survived
+314,1,Survived
+315,1,Survived
+316,0,Not Survived
+317,0,Not Survived
+318,0,Not Survived
+319,0,Not Survived
+320,0,Not Survived
+321,0,Not Survived
+322,0,Not Survived
+323,0,Not Survived
+324,1,Survived
+325,0,Not Survived
+326,1,Survived
+327,0,Not Survived
+328,0,Not Survived
+329,0,Not Survived
+330,1,Survived
+331,0,Not Survived
+332,0,Not Survived
+333,1,Survived
+334,0,Not Survived
+335,0,Not Survived
+336,0,Not Survived
+337,0,Not Survived
+338,0,Not Survived
+339,0,Not Survived
+340,0,Not Survived
+341,0,Not Survived
+342,0,Not Survived
+343,1,Survived
+344,0,Not Survived
+345,1,Survived
+346,0,Not Survived
+347,1,Survived
+348,0,Not Survived
+349,1,Survived
+350,1,Survived
+351,0,Not Survived
+352,0,Not Survived
+353,0,Not Survived
+354,1,Survived
+355,0,Not Survived
+356,1,Survived
+357,0,Not Survived
+358,0,Not Survived
+359,1,Survived
+360,0,Not Survived
+361,1,Survived
+362,1,Survived
+363,0,Not Survived
+364,1,Survived
+365,0,Not Survived
+366,0,Not Survived
+367,1,Survived
+368,1,Survived
+369,0,Not Survived
+370,0,Not Survived
+371,1,Survived
+372,0,Not Survived
+373,0,Not Survived
+374,1,Survived
+375,1,Survived
+376,1,Survived
+377,0,Not Survived
+378,0,Not Survived
+379,0,Not Survived
+380,0,Not Survived
+381,0,Not Survived
+382,1,Survived
+383,1,Survived
+384,0,Not Survived
+385,1,Survived
+386,0,Not Survived
+387,0,Not Survived
+388,0,Not Survived
+389,0,Not Survived
+390,0,Not Survived
+391,1,Survived
+392,0,Not Survived
+393,0,Not Survived
+394,0,Not Survived
+395,1,Survived
+396,0,Not Survived
+397,1,Survived
+398,0,Not Survived
+399,0,Not Survived
+400,1,Survived
+401,0,Not Survived
+402,1,Survived
+403,0,Not Survived
+404,0,Not Survived
+405,0,Not Survived
+406,0,Not Survived
+407,0,Not Survived
+408,1,Survived
+409,1,Survived
+410,1,Survived
+411,1,Survived
+412,1,Survived
+413,0,Not Survived
+414,1,Survived
+415,0,Not Survived
+416,0,Not Survived
+417,0,Not Survived
